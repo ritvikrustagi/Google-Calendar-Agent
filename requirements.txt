@@ -1,0 +1,16 @@
+# Google API Dependencies
+google-api-python-client>=2.0.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+
+# OpenAI
+autogen>=0.2.0
+openai>=1.0.0
+
+# Web App
+streamlit>=1.25.0
+python-dotenv>=0.19.0
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2023.3
